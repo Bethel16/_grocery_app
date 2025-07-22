@@ -15,7 +15,8 @@ class CategoryListpage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       drawer: Drawer(),
-      appBar: AppBar(
+      appBar: 
+      AppBar(
         title: IconFonts(
           iconName: IconFontHelper.LOGO,
           color: AppColors.MAIN_COLOR,
